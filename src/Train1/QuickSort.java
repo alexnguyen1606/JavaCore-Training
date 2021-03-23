@@ -18,7 +18,7 @@ public class QuickSort extends BubbleSort{
             return;
         
     }
-    public static int partrivot(){
-        
-    }
+//    public static int partrivot(){
+//
+//    }
 }

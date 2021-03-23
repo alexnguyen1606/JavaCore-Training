@@ -23,5 +23,6 @@ public class Bai24 {//đếm từ
     public static void countWord(String str){
         String[] n = str.trim().split(" ");
         System.out.println(n.length);
+        
     }
 }
