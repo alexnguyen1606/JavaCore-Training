@@ -5,5 +5,7 @@ package designpattern.decoratorspattern.starbuckdecorator;
  * <p>
  * 11:22 PM ,March 23,2021
  */
-public class Salary {
+public abstract class Salary {
+    
+    public abstract Long getSalary();
 }

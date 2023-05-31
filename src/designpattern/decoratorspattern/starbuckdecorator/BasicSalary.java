@@ -5,5 +5,9 @@ package designpattern.decoratorspattern.starbuckdecorator;
  * <p>
  * 11:35 PM ,March 23,2021
  */
-public class BasicSalary {
+public class BasicSalary extends Salary {
+    @Override
+    public Long getSalary() {
+        return null;
+    }
 }

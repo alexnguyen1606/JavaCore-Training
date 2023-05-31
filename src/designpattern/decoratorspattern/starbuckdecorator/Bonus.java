@@ -5,5 +5,5 @@ package designpattern.decoratorspattern.starbuckdecorator;
  * <p>
  * 11:26 PM ,March 23,2021
  */
-public class Bonus {
+public abstract class Bonus extends Salary {
 }
